@@ -1,6 +1,7 @@
 # Portfolio — Samir Gueblaoui
 
-Portfolio en français, en HTML et CSS, sans dépendance. Thème sombre : fond presque noir, surfaces anthracite et typographie système, adaptée à macOS/iOS et aux autres appareils.
+
+Ce site a été « vibe codé » avec l’aide de l’IA (Codex), à partir de mes indications pour le contenu et la mise en page.
 
 ## Ouvrir le site
 
