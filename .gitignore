@@ -1,0 +1,31 @@
+# Fichiers système
+.DS_Store
+.AppleDouble
+._*
+Thumbs.db
+Desktop.ini
+
+# Fichiers temporaires des éditeurs
+*.swp
+*.swo
+*~
+*.bak
+
+# Fichiers générés par LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# Configuration locale et secrets
+.env
+.env.*
+!.env.example
